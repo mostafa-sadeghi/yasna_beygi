@@ -38,10 +38,10 @@ E
 را پرینت کن
 """
 
-username = input("enter the username: ")
-if username == "root" or username == "sara" or username == "admin":
-    print(f'{username} is valid')
-    print("login success")
-else:
-    print(f'{username} is not valid')
-    print("login was'nt successful")
+# username = input("enter the username: ")
+# if username == "root" or username == "sara" or username == "admin":
+#     print(f'{username} is valid')
+#     print("login success")
+# else:
+#     print(f'{username} is not valid')
+#     print("login was'nt successful")
